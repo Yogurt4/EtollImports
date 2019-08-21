@@ -1,0 +1,416 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <create>
+  <node id="-1" lat="47.90166916" lon="17.16393648">
+    <tag k="HU:hu-go:road" v="101"/>
+    <tag k="HU:hu-go:milestone" v="0 + 000"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-2" lat="47.25907585" lon="19.58951468">
+    <tag k="HU:hu-go:road" v="40"/>
+    <tag k="HU:hu-go:milestone" v="0 + 810"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-3" lat="46.93572047" lon="19.64034872">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="11 + 333"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-4" lat="46.93088674" lon="19.63234362">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="12 + 246"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-5">
+    <member type="node" ref="-3" role="from"/>
+    <member type="node" ref="-4" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 445u11k333m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="445u11k333m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="913"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-6" lat="46.93090066" lon="19.63178991">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="12 + 246"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-7" lat="46.93289048" lon="19.61757042">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="13 + 405"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-8">
+    <member type="node" ref="-6" role="from"/>
+    <member type="node" ref="-7" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 445u12k246m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="445u12k246m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="1138"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-9" lat="46.94055406" lon="19.65874485">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="9 + 819"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-10" lat="46.93602465" lon="19.64067242">
+    <tag k="HU:hu-go:road" v="445"/>
+    <tag k="HU:hu-go:milestone" v="11 + 333"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-11">
+    <member type="node" ref="-9" role="from"/>
+    <member type="node" ref="-10" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 445u9k819m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="445u9k819m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="1550"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-12" lat="47.61455469" lon="21.74842682">
+    <tag k="HU:hu-go:road" v="471"/>
+    <tag k="HU:hu-go:milestone" v="11 + 577"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-13" lat="47.62655281" lon="21.78968155">
+    <tag k="HU:hu-go:road" v="471"/>
+    <tag k="HU:hu-go:milestone" v="15 + 520"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-14">
+    <member type="node" ref="-12" role="from"/>
+    <member type="node" ref="-13" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 471u11k577m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="471u11k577m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3965"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-15" lat="47.58557604" lon="21.72212564">
+    <tag k="HU:hu-go:road" v="471"/>
+    <tag k="HU:hu-go:milestone" v="7 + 752"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-16" lat="47.5858664" lon="21.72232101">
+    <tag k="HU:hu-go:road" v="471"/>
+    <tag k="HU:hu-go:milestone" v="7 + 752"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-17" lat="47.61435408" lon="21.74803661">
+    <tag k="HU:hu-go:road" v="471"/>
+    <tag k="HU:hu-go:milestone" v="11 + 577"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-18">
+    <member type="node" ref="-16" role="from"/>
+    <member type="node" ref="-17" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 471u7k752m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="471u7k752m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3845"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-19" lat="46.44548249" lon="20.31608568">
+    <tag k="HU:hu-go:road" v="47"/>
+    <tag k="HU:hu-go:milestone" v="198 + 082"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-20" lat="47.27650062" lon="21.54967233">
+    <tag k="HU:hu-go:road" v="47"/>
+    <tag k="HU:hu-go:milestone" v="30 + 083"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-21" lat="47.27409286" lon="21.54734233">
+    <tag k="HU:hu-go:road" v="47"/>
+    <tag k="HU:hu-go:milestone" v="30 + 385"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-22">
+    <member type="node" ref="-21" role="from"/>
+    <member type="node" ref="5282088100" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 47u30k385m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="47u30k385m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="2338"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-23" lat="47.27622675" lon="21.54941952">
+    <tag k="HU:hu-go:road" v="47"/>
+    <tag k="HU:hu-go:milestone" v="30 + 083"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-24" lat="47.27436516" lon="21.54759864">
+    <tag k="HU:hu-go:road" v="47"/>
+    <tag k="HU:hu-go:milestone" v="30 + 385"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-25">
+    <member type="node" ref="-23" role="from"/>
+    <member type="node" ref="-24" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 47u30k83m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="47u30k83m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="296"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-26" lat="48.29522471" lon="22.10780303">
+    <tag k="HU:hu-go:road" v="4"/>
+    <tag k="HU:hu-go:milestone" v="327 + 599"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-27" lat="48.29555159" lon="22.10801883">
+    <tag k="HU:hu-go:road" v="4"/>
+    <tag k="HU:hu-go:milestone" v="327 + 599"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-28">
+    <member type="node" ref="-27" role="from"/>
+    <member type="node" ref="5282091473" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 4u327k599m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="4u327k599m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="1053"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-29" lat="47.24440524" lon="19.65302013">
+    <tag k="HU:hu-go:road" v="4"/>
+    <tag k="HU:hu-go:milestone" v="56 + 094"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-30" lat="47.21133411" lon="19.74547094">
+    <tag k="HU:hu-go:road" v="4"/>
+    <tag k="HU:hu-go:milestone" v="56 + 8184"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-31">
+    <member type="node" ref="-30" role="from"/>
+    <member type="node" ref="5282091492" role="to"/>
+    <tag k="name" v="Útdíjas szakasz 4u56k8184m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="4u56k8184m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3139"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-32" lat="47.83912702" lon="20.39861764">
+    <tag k="HU:hu-go:road" v="M25"/>
+    <tag k="HU:hu-go:milestone" v="15 + 384"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-33" lat="47.87061956" lon="20.39194123">
+    <tag k="HU:hu-go:road" v="M25"/>
+    <tag k="HU:hu-go:milestone" v="18 + 976"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-34">
+    <member type="node" ref="-32" role="from"/>
+    <member type="node" ref="-33" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M25u15k384m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M25u15k384m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3594"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-35" lat="47.45821337" lon="21.56634089">
+    <tag k="HU:hu-go:road" v="M35"/>
+    <tag k="HU:hu-go:milestone" v="48 + 562"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <node id="-36" lat="47.36989745" lon="21.52762308">
+    <tag k="HU:hu-go:road" v="M35"/>
+    <tag k="HU:hu-go:milestone" v="59 + 134"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-37">
+    <member type="node" ref="-35" role="from"/>
+    <member type="node" ref="-36" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M35u48k562m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M35u48k562m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="10572"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-38" lat="47.29256072" lon="21.50791149">
+    <tag k="HU:hu-go:road" v="M35"/>
+    <tag k="HU:hu-go:milestone" v="67 + 790"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-39">
+    <member type="node" ref="-36" role="from"/>
+    <member type="node" ref="-38" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M35u59k134m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M35u59k134m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="9451"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-40" lat="47.27527149" lon="21.54848513">
+    <tag k="HU:hu-go:road" v="M4"/>
+    <tag k="HU:hu-go:milestone" v="214 + 763"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-41">
+    <member type="node" ref="-38" role="from"/>
+    <member type="node" ref="-40" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M4u211k25m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M4u211k25m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3738"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-42" lat="47.2219155" lon="19.69439926">
+    <tag k="HU:hu-go:road" v="M4"/>
+    <tag k="HU:hu-go:milestone" v="62 + 954"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-43">
+    <member type="node" ref="-29" role="from"/>
+    <member type="node" ref="-42" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M4u58k916m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M4u58k916m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="4037"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <node id="-44" lat="47.2137675" lon="19.73382508">
+    <tag k="HU:hu-go:road" v="M4"/>
+    <tag k="HU:hu-go:milestone" v="65 + 1077"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </node>
+ </create>
+ <create>
+  <relation id="-45">
+    <member type="node" ref="-42" role="from"/>
+    <member type="node" ref="-44" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M4u62k954m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M4u62k954m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="3124"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <relation id="-46">
+    <member type="node" ref="-44" role="from"/>
+    <member type="node" ref="-30" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M4u65k1077m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M4u65k1077m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="923"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+ <create>
+  <relation id="-47">
+    <member type="node" ref="-7" role="from"/>
+    <member type="node" ref="5863379319" role="to"/>
+    <tag k="name" v="Útdíjas szakasz M5u80k159m"/>
+    <tag k="type" v="route"/>
+    <tag k="ref:HU:edid" v="M5u80k159m"/>
+    <tag k="route" v="HU:toll:hgv"/>
+    <tag k="HU:hu-go:length" v="5240"/>
+    <tag k="start_date" v="2019-01-01"/>
+  </relation>
+ </create>
+</osmChange>
