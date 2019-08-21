@@ -1,0 +1,319 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+  <way id="25937121" version="12" timestamp="2018-06-12T15:14:16Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="282922486"/>
+    <nd ref="1052590791"/>
+    <nd ref="1387230609"/>
+    <nd ref="110968689"/>
+    <nd ref="1387230615"/>
+    <nd ref="110968690"/>
+    <nd ref="1387230618"/>
+    <nd ref="1387230620"/>
+    <nd ref="1387230623"/>
+    <nd ref="110968691"/>
+    <nd ref="1052590777"/>
+    <nd ref="110968692"/>
+    <nd ref="1387230626"/>
+    <nd ref="110968694"/>
+    <nd ref="5474722952"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="25937123" version="26" timestamp="2018-06-12T15:14:16Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="21513097"/>
+    <nd ref="1387230584"/>
+    <nd ref="5483644661"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes" v="none|through;right"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="25937124" version="8" timestamp="2018-06-12T15:14:17Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="282922634"/>
+    <nd ref="1387230597"/>
+    <nd ref="1387230601"/>
+    <nd ref="282922486"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="25937126" version="11" timestamp="2018-06-12T15:14:17Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="21513594"/>
+    <nd ref="1387230599"/>
+    <nd ref="1387230596"/>
+    <nd ref="2293419599"/>
+    <nd ref="21513097"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="547893187" version="6" timestamp="2018-06-12T15:15:14Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="110968696"/>
+    <nd ref="1387230646"/>
+    <nd ref="5308749958"/>
+    <tag k="destination" v="Bécs-Wien"/>
+    <tag k="destination:int_ref" v="E 60"/>
+    <tag k="destination:symbol" v="motorway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="549591676" version="6" timestamp="2018-06-12T15:15:17Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5308749959"/>
+    <nd ref="21514151"/>
+    <nd ref="282921431"/>
+    <nd ref="1387230634"/>
+    <nd ref="282921478"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="562739601" version="4" timestamp="2018-06-12T15:15:23Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="282921478"/>
+    <nd ref="5483644656"/>
+    <nd ref="5483644657"/>
+    <nd ref="5483644659"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="transit:lanes" v="continue|continue|end"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="564392157" version="4" timestamp="2018-06-12T15:15:37Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="1387230594"/>
+    <nd ref="5478672334"/>
+    <tag k="change:lanes" v="yes|not_right|no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="maxspeed:variable" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="569207731" version="4" timestamp="2018-06-12T15:15:55Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5474722952"/>
+    <nd ref="937991737"/>
+    <nd ref="937991739"/>
+    <nd ref="110968695"/>
+    <nd ref="5483644653"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes" v="none|through;slight_right"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="569728986" version="4" timestamp="2018-06-12T15:16:02Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5478672334"/>
+    <nd ref="5478679965"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes" v="none|none|merge_to_left"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="569729832" version="3" timestamp="2018-06-12T15:16:02Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5478679965"/>
+    <nd ref="282922634"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="570383954" version="5" timestamp="2018-09-12T11:18:32Z" uid="7530849" user="Zsolt Medgyesi" changeset="62516942">
+    <nd ref="5483644653"/>
+    <nd ref="5625390054"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="transit:lanes" v="continue|continue|leave"/>
+    <tag k="turn:lanes" v="none|through|slight_right"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="570383959" version="3" timestamp="2018-06-12T15:16:04Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5483644659"/>
+    <nd ref="5483644658"/>
+    <nd ref="1052590780"/>
+    <nd ref="21515026"/>
+    <nd ref="1387230629"/>
+    <nd ref="21514793"/>
+    <nd ref="1052590761"/>
+    <nd ref="21514624"/>
+    <nd ref="21514451"/>
+    <nd ref="1387230622"/>
+    <nd ref="21515688"/>
+    <nd ref="1387230617"/>
+    <nd ref="21515550"/>
+    <nd ref="1387230613"/>
+    <nd ref="21515382"/>
+    <nd ref="1387230603"/>
+    <nd ref="21515195"/>
+    <nd ref="21513594"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="589079846" version="2" timestamp="2018-06-12T15:16:35Z" uid="7187009" user="ITineris_bulk" changeset="59781875">
+    <nd ref="5625390054"/>
+    <nd ref="110968696"/>
+    <tag k="destination:lanes" v="Bécs-Wien|Bécs-Wien|Bevásárló központ"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M1"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="transit:lanes" v="continue|continue|leave"/>
+    <tag k="turn:lanes" v="none|through|slight_right"/>
+    <tag k="ref:HU:edid" v="M1u167k597m"/>
+  </way>
+ </modify>
+</osmChange>
