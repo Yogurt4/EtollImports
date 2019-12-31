@@ -1,0 +1,25 @@
+﻿<osmChange version="0.6" generator="acme osm editor">
+	<create>
+		<relation id="-1">
+			<member type="node" ref="5282104165" role="from"/>
+			<member type="node" ref="5282104166" role="to"/>
+			<member type="way" ref="4948018" role="backward"/>
+			<member type="way" ref="4948020" role="backward"/>
+			<member type="way" ref="87342068" role="backward"/>
+			<member type="way" ref="124713505" role="backward"/>
+			<member type="way" ref="179618821" role="backward"/>
+			<tag k="HU:hu-go:length" v="1553"/>
+			<tag k="name" v="Útdíjas szakasz M15u0k708m"/>
+			<tag k="ref:HU:edid" v="M15u0k708m"/>
+			<tag k="start_date" v="2016-12-19"/>
+			<tag k="type" v="network"/>
+		</relation>
+	</create>
+</osmChange>
+
+
+
+
+
+
+
