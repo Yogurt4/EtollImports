@@ -1,0 +1,31 @@
+<osmChange version="0.6" generator="acme osm editor">
+	<create>
+		<node id="-1" lat="47.98368216" lon="21.78534606">
+			<tag k="HU:hu-go:road" v="4"/>
+			<tag k="HU:hu-go:milestone" v="281 + 285"/>
+			<tag k="start_date" v="2016-12-19"/>
+		</node>
+	</create>
+	<modify>
+		<relation id="7807142" version="5" timestamp="2020-01-10T13:47:26Z" uid="10104620" user="Kiszely Gergő" changeset="79420813">
+			<member type="node" ref="5282091450" role="from"/>
+			<member type="node" ref="-1" role="to"/>
+			<tag k="HU:hu-go:length" v="3505"/>
+			<tag k="name" v="Útdíjas szakasz 4u277k822m"/>
+			<tag k="ref:HU:edid" v="4u277k822m"/>
+			<tag k="start_date" v="2016-12-19"/>
+			<tag k="type" v="network"/>
+		</relation>
+	</modify>
+	<modify>
+		<relation id="7807143" version="4" timestamp="2020-01-10T13:47:26Z" uid="10104620" user="Kiszely Gergő" changeset="79420813">
+			<member type="node" ref="-1" role="from"/>
+			<member type="node" ref="5282091452" role="to"/>
+			<tag k="HU:hu-go:length" v="1493"/>
+			<tag k="name" v="Útdíjas szakasz 4u281k285m"/>
+			<tag k="ref:HU:edid" v="4u281k285m"/>
+			<tag k="start_date" v="2016-12-19"/>
+			<tag k="type" v="network"/>
+		</relation>
+	</modify>
+</osmChange>

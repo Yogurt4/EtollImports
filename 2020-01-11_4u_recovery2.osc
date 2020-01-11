@@ -1,0 +1,43 @@
+<osmChange version="0.6" generator="acme osm editor">
+	<modify>
+		<relation id="7807142" version="6" uid="7187009" user="ITineris_bulk" changeset="79462152">
+			<member type="node" ref="5282091450" role="from"/>
+			<member type="node" ref="7124976482" role="to"/>
+    <member type="way" ref="296916191" role="forward"/>
+    <member type="way" ref="301439561" role="backward"/>
+    <member type="way" ref="301439562" role="forward"/>
+    <member type="way" ref="301439563" role="forward"/>
+    <member type="way" ref="301439807" role="forward"/>
+    <member type="way" ref="625623154" role="forward"/>
+    <member type="way" ref="625623153" role="forward"/>
+    <member type="way" ref="302636932" role="forward"/>
+    <member type="way" ref="302636936" role="forward"/>
+    <member type="way" ref="302636942" role="forward"/>
+    <member type="way" ref="625623152" role="forward"/>
+    <member type="way" ref="302636946" role="forward"/>
+    <member type="way" ref="302636948" role="forward"/>
+    <member type="way" ref="303926059" role="forward"/>
+			<tag k="HU:hu-go:length" v="3505"/>
+			<tag k="name" v="Útdíjas szakasz 4u277k822m"/>
+			<tag k="ref:HU:edid" v="4u277k822m"/>
+			<tag k="start_date" v="2016-12-19"/>
+			<tag k="type" v="network"/>
+		</relation>
+	</modify>
+	<modify>
+		<relation id="7807143" version="5" uid="7187009" user="ITineris_bulk" changeset="79462152">
+			<member type="node" ref="7124976482" role="from"/>
+			<member type="node" ref="5282091452" role="to"/>
+    <member type="way" ref="262883208" role="forward"/>
+    <member type="way" ref="274709202" role="backward"/>
+    <member type="way" ref="301439152" role="forward"/>
+    <member type="way" ref="332547660" role="forward"/>
+    <member type="way" ref="332547664" role="forward"/>
+			<tag k="HU:hu-go:length" v="1493"/>
+			<tag k="name" v="Útdíjas szakasz 4u281k285m"/>
+			<tag k="ref:HU:edid" v="4u281k285m"/>
+			<tag k="start_date" v="2016-12-19"/>
+			<tag k="type" v="network"/>
+		</relation>
+	</modify>
+</osmChange>
