@@ -1,0 +1,309 @@
+<osmChange version="0.6" generator="acme osm editor">
+<modify>
+<way id="74773237" version="8" timestamp="2016-12-29T08:20:58Z" uid="2385757" user="gekapes" changeset="44750522">
+    <nd ref="60732092"/>
+    <nd ref="60732091"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="74860198" version="26" timestamp="2016-12-31T12:15:13Z" uid="408450" user="BáthoryPéter" changeset="44804948">
+    <nd ref="4156345208"/>
+    <nd ref="4156345207"/>
+    <nd ref="26866447"/>
+    <nd ref="1694729662"/>
+    <nd ref="3104011352"/>
+    <nd ref="26866450"/>
+    <nd ref="3104011201"/>
+    <nd ref="3104011470"/>
+    <nd ref="60732329"/>
+    <nd ref="3104011468"/>
+    <nd ref="26866454"/>
+    <nd ref="3104011849"/>
+    <nd ref="60732314"/>
+    <nd ref="3104011847"/>
+    <nd ref="659534229"/>
+    <nd ref="1312405564"/>
+    <nd ref="1694738764"/>
+    <nd ref="262053467"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="116646127" version="9" timestamp="2016-07-09T18:06:43Z" uid="58255" user="aytfadc" changeset="40616753">
+    <nd ref="1314512634"/>
+    <nd ref="1314512635"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="116646128" version="10" timestamp="2016-07-09T18:06:44Z" uid="58255" user="aytfadc" changeset="40616753">
+    <nd ref="60732091"/>
+    <nd ref="1314512631"/>
+    <nd ref="1314512634"/>
+    <tag k="ref" v="M51"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="116646129" version="9" timestamp="2017-01-18T12:19:45Z" uid="5148448" user="haro79" changeset="45268902">
+    <nd ref="1314512635"/>
+    <nd ref="26866441"/>
+    <nd ref="1321705211"/>
+    <nd ref="1321705220"/>
+    <nd ref="26866442"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="116646630" version="10" timestamp="2016-07-09T18:06:45Z" uid="58255" user="aytfadc" changeset="40616753">
+    <nd ref="1314512628"/>
+    <nd ref="1314512615"/>
+    <nd ref="1314512627"/>
+    <nd ref="1314512632"/>
+    <nd ref="1314512612"/>
+    <nd ref="3095500602"/>
+    <nd ref="1314512613"/>
+    <nd ref="1314512634"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="316532360" version="5" timestamp="2016-12-31T12:16:22Z" uid="408450" user="BáthoryPéter" changeset="44804948">
+    <nd ref="262052869"/>
+    <nd ref="1312405599"/>
+    <nd ref="3104011846"/>
+    <nd ref="60732325"/>
+    <nd ref="3104011848"/>
+    <nd ref="1312706479"/>
+    <nd ref="3104011850"/>
+    <nd ref="60732099"/>
+    <nd ref="3104011469"/>
+    <nd ref="3104011851"/>
+    <nd ref="60732098"/>
+    <nd ref="3104011351"/>
+    <nd ref="3104009086"/>
+    <nd ref="60732097"/>
+    <nd ref="4156345206"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="414498162" version="2" timestamp="2016-07-09T18:06:43Z" uid="58255" user="aytfadc" changeset="40616753">
+    <nd ref="26866442"/>
+    <nd ref="3104011860"/>
+    <nd ref="3104009087"/>
+    <nd ref="26866443"/>
+    <nd ref="3104011858"/>
+    <nd ref="3104011856"/>
+    <nd ref="1312686988"/>
+    <nd ref="3104011855"/>
+    <nd ref="659534242"/>
+    <nd ref="26866444"/>
+    <nd ref="26866445"/>
+    <nd ref="3104011852"/>
+    <nd ref="1694729456"/>
+    <nd ref="4156345211"/>
+    <nd ref="4156345210"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="414498163" version="2" timestamp="2016-12-29T08:20:57Z" uid="2385757" user="gekapes" changeset="44750522">
+    <nd ref="4156345209"/>
+    <nd ref="3104011353"/>
+    <nd ref="60732096"/>
+    <nd ref="60732095"/>
+    <nd ref="3104011853"/>
+    <nd ref="3104011854"/>
+    <nd ref="1312686992"/>
+    <nd ref="3104012171"/>
+    <nd ref="3104011857"/>
+    <nd ref="60732094"/>
+    <nd ref="3104011859"/>
+    <nd ref="60732093"/>
+    <nd ref="4578795051"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="414498164" version="2" timestamp="2016-07-09T18:06:44Z" uid="58255" user="aytfadc" changeset="40616753">
+    <nd ref="4156345210"/>
+    <nd ref="4156345208"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="414498165" version="1" timestamp="2016-04-29T20:24:53Z" uid="493704" user="Tamas54_hu" changeset="38988570">
+    <nd ref="4156345206"/>
+    <nd ref="4156345209"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="462491756" version="1" timestamp="2016-12-29T08:20:57Z" uid="2385757" user="gekapes" changeset="44750522">
+    <nd ref="4578795051"/>
+    <nd ref="1321705206"/>
+    <nd ref="1321705183"/>
+    <nd ref="60732092"/>
+    <tag k="ref" v="M51"/>
+    <tag k="toll" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="turn:lanes" v="through;slight_right"/>
+    <tag k="source:maxspeed" v="sign"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="549993324" version="1" timestamp="2017-12-30T22:49:53Z" uid="622084" user="ITineris" changeset="55046848">
+    <nd ref="5312686963"/>
+    <nd ref="3104011829"/>
+    <nd ref="1312405563"/>
+    <nd ref="1312405593"/>
+    <nd ref="262052869"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 60;E 75"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M51"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M51u25k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<relation id="7808534" version="2" timestamp="2018-05-02T14:13:39Z" uid="7187009" user="ITineris_bulk" changeset="58616580">
+    <member type="node" ref="5282104354" role="from"/>
+    <member type="node" ref="5282104355" role="to"/>
+    <tag k="HU:hu-go:length" v="3599"/>
+    <tag k="name" v="Útdíjas szakasz M51u25k0m"/>
+    <tag k="ref:HU:edid" v="M51u25k0m"/>
+    <tag k="start_date" v="2016-12-19"/>		<tag k="type" v="route"/>
+		<tag k="route" v="HU:toll:hgv"/>
+		<member type="way" ref="74773237" role="forward"/>
+		<member type="way" ref="74860198" role="backward"/>
+		<member type="way" ref="116646127" role="backward"/>
+		<member type="way" ref="116646128" role="forward"/>
+		<member type="way" ref="116646129" role="backward"/>
+		<member type="way" ref="116646630" role="backward"/>
+		<member type="way" ref="316532360" role="forward"/>
+		<member type="way" ref="414498162" role="backward"/>
+		<member type="way" ref="414498163" role="forward"/>
+		<member type="way" ref="414498164" role="backward"/>
+		<member type="way" ref="414498165" role="forward"/>
+		<member type="way" ref="462491756" role="forward"/>
+		<member type="way" ref="549993324" role="forward"/>
+</relation>
+</modify>
+</osmChange>

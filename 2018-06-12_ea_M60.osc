@@ -1,0 +1,2999 @@
+<osmChange version="0.6" generator="acme osm editor">
+<modify>
+<way id="54607473" version="16" timestamp="2018-05-15T12:53:49Z" uid="622084" user="ITineris" changeset="58983691">
+    <nd ref="687431929"/>
+    <nd ref="687431930"/>
+    <nd ref="3130910231"/>
+    <nd ref="1855922611"/>
+    <nd ref="687431934"/>
+    <nd ref="3130910155"/>
+    <nd ref="1855922607"/>
+    <nd ref="687431935"/>
+    <nd ref="3130910230"/>
+    <nd ref="1855922593"/>
+    <nd ref="3130910229"/>
+    <nd ref="687431936"/>
+    <nd ref="687431937"/>
+    <nd ref="3130909807"/>
+    <nd ref="687431938"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="54616082" version="13" timestamp="2018-03-31T14:38:08Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431927"/>
+    <nd ref="1855922629"/>
+    <nd ref="687536235"/>
+    <tag k="destination:lanes" v="Budapest;Dunaújváros;Szekszárd|Szajk;Mohács"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M6"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="137195106" version="8" timestamp="2018-03-31T14:38:11Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1504989779"/>
+    <nd ref="687431869"/>
+    <nd ref="687431879"/>
+    <nd ref="1855922416"/>
+    <nd ref="3188426486"/>
+    <nd ref="1855922414"/>
+    <nd ref="1855922413"/>
+    <nd ref="687431881"/>
+    <nd ref="1855922415"/>
+    <nd ref="1855922417"/>
+    <nd ref="687431884"/>
+    <nd ref="1855922423"/>
+    <nd ref="1855922427"/>
+    <nd ref="1855922429"/>
+    <nd ref="687431886"/>
+    <nd ref="1855922432"/>
+    <nd ref="1855922444"/>
+    <nd ref="687431902"/>
+    <nd ref="1855922450"/>
+    <nd ref="1855922456"/>
+    <nd ref="1855922463"/>
+    <nd ref="687431904"/>
+    <nd ref="1855922470"/>
+    <nd ref="1855922484"/>
+    <nd ref="687431907"/>
+    <nd ref="1855922501"/>
+    <nd ref="1855922509"/>
+    <nd ref="1855922531"/>
+    <nd ref="687431908"/>
+    <nd ref="1855922559"/>
+    <nd ref="1855922565"/>
+    <nd ref="1855922570"/>
+    <nd ref="687431922"/>
+    <nd ref="687431923"/>
+    <nd ref="1855922589"/>
+    <nd ref="1855922591"/>
+    <nd ref="3130909808"/>
+    <nd ref="687431924"/>
+    <nd ref="1855922595"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="137195107" version="8" timestamp="2018-03-31T14:38:11Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1504989799"/>
+    <nd ref="1504989817"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="137195108" version="5" timestamp="2018-03-31T14:38:11Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431872"/>
+    <nd ref="1504989799"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="137195109" version="5" timestamp="2018-03-31T14:38:12Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1504989783"/>
+    <nd ref="1504989779"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="148802310" version="9" timestamp="2018-03-31T14:38:12Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431758"/>
+    <nd ref="3130926154"/>
+    <nd ref="687431761"/>
+    <nd ref="3188426516"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="148802324" version="5" timestamp="2018-03-31T14:38:12Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431739"/>
+    <nd ref="1618729888"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="148802327" version="5" timestamp="2018-03-31T14:38:12Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1618729889"/>
+    <nd ref="687431758"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="148802328" version="8" timestamp="2018-03-31T14:38:13Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1618729888"/>
+    <nd ref="3130925909"/>
+    <nd ref="3130925984"/>
+    <nd ref="687431742"/>
+    <nd ref="3188426009"/>
+    <nd ref="3130925905"/>
+    <nd ref="687431744"/>
+    <nd ref="3130925903"/>
+    <nd ref="3130925902"/>
+    <nd ref="687431718"/>
+    <nd ref="3130925982"/>
+    <nd ref="687431720"/>
+    <nd ref="3130926145"/>
+    <nd ref="687431726"/>
+    <nd ref="687431785"/>
+    <nd ref="687431767"/>
+    <nd ref="687431770"/>
+    <nd ref="3188426485"/>
+    <nd ref="687431774"/>
+    <nd ref="3130926142"/>
+    <nd ref="687431793"/>
+    <nd ref="3130925979"/>
+    <nd ref="2187410858"/>
+    <nd ref="3130925971"/>
+    <nd ref="687431796"/>
+    <nd ref="3130925967"/>
+    <nd ref="3130926131"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149403340" version="7" timestamp="2018-03-31T14:38:13Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431198"/>
+    <nd ref="3139854579"/>
+    <nd ref="3139854581"/>
+    <nd ref="687431201"/>
+    <nd ref="3139854584"/>
+    <nd ref="687431209"/>
+    <nd ref="3139854582"/>
+    <nd ref="687431215"/>
+    <nd ref="3139854577"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149403345" version="7" timestamp="2018-03-31T14:38:13Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431258"/>
+    <nd ref="3139854464"/>
+    <nd ref="3139854469"/>
+    <nd ref="3139854559"/>
+    <nd ref="3188423637"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through;right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149403350" version="5" timestamp="2018-03-31T14:38:13Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1623870036"/>
+    <nd ref="1623870035"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149403356" version="5" timestamp="2018-03-31T14:38:13Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1623870037"/>
+    <nd ref="687431258"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149403360" version="7" timestamp="2018-03-31T14:38:14Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1623870051"/>
+    <nd ref="687431192"/>
+    <nd ref="3139854568"/>
+    <nd ref="687431195"/>
+    <nd ref="3139854395"/>
+    <nd ref="3139854392"/>
+    <nd ref="687431165"/>
+    <nd ref="3139854372"/>
+    <nd ref="3188426882"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149403364" version="4" timestamp="2018-03-31T14:38:14Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431186"/>
+    <nd ref="687431197"/>
+    <nd ref="3188423644"/>
+    <nd ref="687431198"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149403367" version="4" timestamp="2018-03-31T14:38:14Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431205"/>
+    <nd ref="3188423645"/>
+    <nd ref="687431207"/>
+    <nd ref="1623870051"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149403369" version="9" timestamp="2018-03-31T14:38:14Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1623870035"/>
+    <nd ref="3139854374"/>
+    <nd ref="687431238"/>
+    <nd ref="3139851505"/>
+    <nd ref="3139851508"/>
+    <nd ref="687431240"/>
+    <nd ref="3139854562"/>
+    <nd ref="687431243"/>
+    <nd ref="3139854569"/>
+    <nd ref="3188426884"/>
+    <nd ref="1623870045"/>
+    <nd ref="3139854580"/>
+    <nd ref="687431262"/>
+    <nd ref="3139851510"/>
+    <nd ref="3139854480"/>
+    <nd ref="687431263"/>
+    <nd ref="687431269"/>
+    <nd ref="687431272"/>
+    <nd ref="3139854600"/>
+    <nd ref="687431274"/>
+    <nd ref="3188423650"/>
+    <nd ref="3139854606"/>
+    <nd ref="687431281"/>
+    <nd ref="3188424833"/>
+    <nd ref="3139854609"/>
+    <nd ref="3139830388"/>
+    <nd ref="687431282"/>
+    <nd ref="3139854660"/>
+    <nd ref="3139830389"/>
+    <nd ref="687431285"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736971" version="6" timestamp="2018-03-31T14:38:14Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924955"/>
+    <nd ref="3188426095"/>
+    <nd ref="3139852272"/>
+    <nd ref="687431510"/>
+    <nd ref="3139852274"/>
+    <nd ref="3139830365"/>
+    <nd ref="3139852275"/>
+    <nd ref="687431519"/>
+    <nd ref="3139852477"/>
+    <nd ref="3139852479"/>
+    <nd ref="3139830367"/>
+    <nd ref="3139852286"/>
+    <nd ref="687431521"/>
+    <nd ref="3139852288"/>
+    <nd ref="3139852483"/>
+    <nd ref="3139852289"/>
+    <nd ref="687431523"/>
+    <nd ref="3188426104"/>
+    <nd ref="3139852287"/>
+    <nd ref="687431527"/>
+    <nd ref="3139852283"/>
+    <nd ref="3139852281"/>
+    <nd ref="3139852478"/>
+    <nd ref="687431529"/>
+    <nd ref="3139852474"/>
+    <nd ref="3139852276"/>
+    <nd ref="687431579"/>
+    <nd ref="3139852470"/>
+    <nd ref="687431555"/>
+    <nd ref="3139830364"/>
+    <nd ref="687431557"/>
+    <nd ref="3188426504"/>
+    <nd ref="3139851500"/>
+    <nd ref="687431559"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736973" version="6" timestamp="2018-03-31T14:38:15Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924891"/>
+    <nd ref="3139852461"/>
+    <nd ref="3139830359"/>
+    <nd ref="1626924925"/>
+    <nd ref="687431596"/>
+    <nd ref="687431598"/>
+    <nd ref="3139854229"/>
+    <nd ref="687431606"/>
+    <nd ref="3139852269"/>
+    <nd ref="687431608"/>
+    <nd ref="3139852469"/>
+    <nd ref="3188426511"/>
+    <nd ref="3139852271"/>
+    <nd ref="687431621"/>
+    <nd ref="687431630"/>
+    <nd ref="3139852486"/>
+    <nd ref="687431633"/>
+    <nd ref="3139852293"/>
+    <nd ref="687431643"/>
+    <nd ref="3139852294"/>
+    <nd ref="3139852296"/>
+    <nd ref="687431646"/>
+    <nd ref="3139852297"/>
+    <nd ref="3139852490"/>
+    <nd ref="687431651"/>
+    <nd ref="1626925134"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736975" version="6" timestamp="2018-03-31T14:38:15Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626925144"/>
+    <nd ref="687431689"/>
+    <nd ref="3139852298"/>
+    <nd ref="687431654"/>
+    <nd ref="3139852489"/>
+    <nd ref="687431656"/>
+    <nd ref="687431659"/>
+    <nd ref="3139852295"/>
+    <nd ref="3139852488"/>
+    <nd ref="687431640"/>
+    <nd ref="3139852487"/>
+    <nd ref="687431635"/>
+    <nd ref="687431638"/>
+    <nd ref="687431627"/>
+    <nd ref="3139852273"/>
+    <nd ref="687431628"/>
+    <nd ref="3188426100"/>
+    <nd ref="3139852270"/>
+    <nd ref="687431609"/>
+    <nd ref="687431610"/>
+    <nd ref="3139854230"/>
+    <nd ref="687431611"/>
+    <nd ref="687431614"/>
+    <nd ref="3139830361"/>
+    <nd ref="3139851498"/>
+    <nd ref="3139830360"/>
+    <nd ref="1626924926"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736976" version="7" timestamp="2018-03-31T14:38:15Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626925141"/>
+    <nd ref="687431661"/>
+    <nd ref="3139852300"/>
+    <nd ref="687431663"/>
+    <nd ref="3139852302"/>
+    <nd ref="3139852494"/>
+    <nd ref="3139852301"/>
+    <nd ref="3139852492"/>
+    <nd ref="687431666"/>
+    <nd ref="3139852491"/>
+    <nd ref="687431667"/>
+    <nd ref="3188426019"/>
+    <nd ref="687431692"/>
+    <nd ref="3188426113"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736977" version="6" timestamp="2018-03-31T14:38:15Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431566"/>
+    <nd ref="3139830362"/>
+    <nd ref="3188426277"/>
+    <nd ref="687431567"/>
+    <nd ref="3139853695"/>
+    <nd ref="687431568"/>
+    <nd ref="687431569"/>
+    <nd ref="3139852471"/>
+    <nd ref="687431532"/>
+    <nd ref="3139852475"/>
+    <nd ref="3139852277"/>
+    <nd ref="687431535"/>
+    <nd ref="3139852282"/>
+    <nd ref="3139852480"/>
+    <nd ref="3139852482"/>
+    <nd ref="687431538"/>
+    <nd ref="3139852290"/>
+    <nd ref="3188426011"/>
+    <nd ref="687431540"/>
+    <nd ref="3139852291"/>
+    <nd ref="687431542"/>
+    <nd ref="3139852485"/>
+    <nd ref="687431545"/>
+    <nd ref="3139852484"/>
+    <nd ref="687431548"/>
+    <nd ref="3139852285"/>
+    <nd ref="687431550"/>
+    <nd ref="3139852476"/>
+    <nd ref="687431512"/>
+    <nd ref="3139830366"/>
+    <nd ref="687431516"/>
+    <nd ref="3139852473"/>
+    <nd ref="3139852472"/>
+    <nd ref="3188426003"/>
+    <nd ref="1626924966"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736978" version="5" timestamp="2018-03-31T14:38:16Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924929"/>
+    <nd ref="687431566"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736979" version="4" timestamp="2018-03-31T14:38:16Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626925150"/>
+    <nd ref="1626925144"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736982" version="4" timestamp="2018-03-31T14:38:16Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924926"/>
+    <nd ref="1626924923"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736986" version="4" timestamp="2018-03-31T14:38:16Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924888"/>
+    <nd ref="1626924891"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736987" version="4" timestamp="2018-03-31T14:38:16Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626925134"/>
+    <nd ref="1626925141"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736991" version="5" timestamp="2018-03-31T14:38:17Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431559"/>
+    <nd ref="1626924915"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736992" version="4" timestamp="2018-03-31T14:38:17Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924761"/>
+    <nd ref="687431499"/>
+    <nd ref="1626924955"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149736995" version="4" timestamp="2018-03-31T14:38:17Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924966"/>
+    <nd ref="687431509"/>
+    <nd ref="1626924794"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149736997" version="5" timestamp="2018-03-31T14:38:17Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924923"/>
+    <nd ref="3139852463"/>
+    <nd ref="3139851499"/>
+    <nd ref="1626924929"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="149737000" version="5" timestamp="2018-03-31T14:38:17Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924915"/>
+    <nd ref="3139852462"/>
+    <nd ref="687431561"/>
+    <nd ref="1626924888"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="149737002" version="8" timestamp="2018-03-31T14:38:18Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1626924794"/>
+    <nd ref="687431482"/>
+    <nd ref="3139850919"/>
+    <nd ref="687431485"/>
+    <nd ref="3139852459"/>
+    <nd ref="687431487"/>
+    <nd ref="687431490"/>
+    <nd ref="3139851491"/>
+    <nd ref="687431492"/>
+    <nd ref="3188424795"/>
+    <nd ref="687431493"/>
+    <nd ref="687431494"/>
+    <nd ref="3188425994"/>
+    <nd ref="3139852457"/>
+    <nd ref="687431497"/>
+    <nd ref="3139851493"/>
+    <nd ref="687431374"/>
+    <nd ref="3139830345"/>
+    <nd ref="687431376"/>
+    <nd ref="3139830346"/>
+    <nd ref="687431379"/>
+    <nd ref="3188426862"/>
+    <nd ref="687431381"/>
+    <nd ref="3139830358"/>
+    <nd ref="687431389"/>
+    <nd ref="3139852268"/>
+    <nd ref="3188426509"/>
+    <nd ref="687431391"/>
+    <nd ref="687431396"/>
+    <nd ref="3188424797"/>
+    <nd ref="687431398"/>
+    <nd ref="3139852481"/>
+    <nd ref="687431400"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="167854142" version="12" timestamp="2018-03-31T14:38:19Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1791997296"/>
+    <nd ref="3857050978"/>
+    <nd ref="3857050977"/>
+    <nd ref="3857051712"/>
+    <nd ref="3857051494"/>
+    <nd ref="5328812791"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="167854145" version="13" timestamp="2018-03-31T14:38:19Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431105"/>
+    <nd ref="3139852518"/>
+    <nd ref="3139854189"/>
+    <nd ref="1791997317"/>
+    <nd ref="5328812790"/>
+    <tag k="destination" v="Drávaszabolcs"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="231954241" version="12" timestamp="2018-03-31T14:38:21Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1791997324"/>
+    <nd ref="3857050595"/>
+    <nd ref="3857050983"/>
+    <nd ref="3857051717"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="254237885" version="6" timestamp="2018-03-31T14:38:22Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313603"/>
+    <nd ref="687431291"/>
+    <nd ref="3139854661"/>
+    <nd ref="687431296"/>
+    <nd ref="3139853696"/>
+    <nd ref="3139830386"/>
+    <nd ref="3188424836"/>
+    <nd ref="687431297"/>
+    <nd ref="3139854607"/>
+    <nd ref="3188424829"/>
+    <nd ref="687431276"/>
+    <nd ref="687431278"/>
+    <nd ref="3139854658"/>
+    <nd ref="687431265"/>
+    <nd ref="3139854485"/>
+    <nd ref="3139854481"/>
+    <nd ref="687431267"/>
+    <nd ref="3139854402"/>
+    <nd ref="3139854587"/>
+    <nd ref="687431248"/>
+    <nd ref="3188417839"/>
+    <nd ref="3139854571"/>
+    <nd ref="687431250"/>
+    <nd ref="3139854473"/>
+    <nd ref="3139854472"/>
+    <nd ref="687431252"/>
+    <nd ref="3139854393"/>
+    <nd ref="687431256"/>
+    <nd ref="3139830381"/>
+    <nd ref="1623870037"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="254237886" version="5" timestamp="2018-03-31T14:38:22Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313595"/>
+    <nd ref="2600313597"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="254237887" version="5" timestamp="2018-03-31T14:38:22Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431285"/>
+    <nd ref="2600313600"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="254237888" version="5" timestamp="2018-03-31T14:38:23Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313594"/>
+    <nd ref="2600313591"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="254237889" version="5" timestamp="2018-03-31T14:38:23Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313606"/>
+    <nd ref="2600313603"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="254237890" version="7" timestamp="2018-03-31T14:38:23Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313591"/>
+    <nd ref="687431322"/>
+    <nd ref="3139854610"/>
+    <nd ref="3139854608"/>
+    <nd ref="687431323"/>
+    <nd ref="3139854604"/>
+    <nd ref="3139854602"/>
+    <nd ref="687431326"/>
+    <nd ref="3139830385"/>
+    <nd ref="687431352"/>
+    <nd ref="3139854488"/>
+    <nd ref="3188423647"/>
+    <nd ref="687431336"/>
+    <nd ref="687431340"/>
+    <nd ref="687431342"/>
+    <nd ref="3188426880"/>
+    <nd ref="687431345"/>
+    <nd ref="687431583"/>
+    <nd ref="3188427298"/>
+    <nd ref="3139852510"/>
+    <nd ref="3139854232"/>
+    <nd ref="687431412"/>
+    <nd ref="3139852310"/>
+    <nd ref="687431413"/>
+    <nd ref="3139852502"/>
+    <nd ref="3188426876"/>
+    <nd ref="687431414"/>
+    <nd ref="687431415"/>
+    <nd ref="687431416"/>
+    <nd ref="687431418"/>
+    <nd ref="3139852500"/>
+    <nd ref="687431421"/>
+    <nd ref="3188426873"/>
+    <nd ref="3139852307"/>
+    <nd ref="687431448"/>
+    <nd ref="3139852306"/>
+    <nd ref="3188427197"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="254237891" version="7" timestamp="2018-03-31T14:38:23Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313600"/>
+    <nd ref="3139853698"/>
+    <nd ref="3139853699"/>
+    <nd ref="687431286"/>
+    <nd ref="3139854666"/>
+    <nd ref="3139853701"/>
+    <nd ref="3188423651"/>
+    <nd ref="687431298"/>
+    <nd ref="3139854668"/>
+    <nd ref="687431301"/>
+    <nd ref="3139853703"/>
+    <nd ref="687431303"/>
+    <nd ref="3139853700"/>
+    <nd ref="3139854664"/>
+    <nd ref="687431305"/>
+    <nd ref="3139853697"/>
+    <nd ref="687431320"/>
+    <nd ref="2600313594"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="254237892" version="7" timestamp="2018-03-31T14:38:23Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2600313597"/>
+    <nd ref="687431332"/>
+    <nd ref="3139854662"/>
+    <nd ref="3139854663"/>
+    <nd ref="687431307"/>
+    <nd ref="3139854667"/>
+    <nd ref="687431309"/>
+    <nd ref="3139854669"/>
+    <nd ref="687431312"/>
+    <nd ref="3139854898"/>
+    <nd ref="687431315"/>
+    <nd ref="3188423652"/>
+    <nd ref="3139853704"/>
+    <nd ref="3139853702"/>
+    <nd ref="687431317"/>
+    <nd ref="3139854665"/>
+    <nd ref="687431289"/>
+    <nd ref="2600313606"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="269888480" version="5" timestamp="2018-03-31T14:38:24Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3139854577"/>
+    <nd ref="687431216"/>
+    <nd ref="3139854574"/>
+    <nd ref="1261077171"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through;right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="269888481" version="6" timestamp="2018-03-31T14:38:24Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431163"/>
+    <nd ref="3139830375"/>
+    <nd ref="687431173"/>
+    <nd ref="3139854470"/>
+    <nd ref="687431184"/>
+    <nd ref="3139854398"/>
+    <nd ref="3139854567"/>
+    <nd ref="687431186"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="293029797" version="4" timestamp="2018-03-31T14:38:24Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431058"/>
+    <nd ref="3139852322"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="307859912" version="3" timestamp="2018-03-31T14:38:28Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2187410823"/>
+    <nd ref="687431763"/>
+    <nd ref="3130925966"/>
+    <nd ref="2187410810"/>
+    <nd ref="687431766"/>
+    <nd ref="3188423613"/>
+    <nd ref="2187410825"/>
+    <nd ref="3188425990"/>
+    <nd ref="687431814"/>
+    <nd ref="2187410838"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="307859913" version="3" timestamp="2018-03-31T14:38:28Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431804"/>
+    <nd ref="687431805"/>
+    <nd ref="3130925977"/>
+    <nd ref="687431806"/>
+    <nd ref="687431812"/>
+    <nd ref="687431776"/>
+    <nd ref="687431779"/>
+    <nd ref="3188423618"/>
+    <nd ref="687431781"/>
+    <nd ref="687431784"/>
+    <nd ref="687431786"/>
+    <nd ref="687431787"/>
+    <nd ref="687431727"/>
+    <nd ref="3130926144"/>
+    <nd ref="687431729"/>
+    <nd ref="687431733"/>
+    <nd ref="3130925901"/>
+    <nd ref="687431735"/>
+    <nd ref="687431748"/>
+    <nd ref="3130925904"/>
+    <nd ref="687431750"/>
+    <nd ref="3130925906"/>
+    <nd ref="687431752"/>
+    <nd ref="3188426103"/>
+    <nd ref="3130925907"/>
+    <nd ref="687431756"/>
+    <nd ref="3130926147"/>
+    <nd ref="1618729889"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="308721686" version="3" timestamp="2018-03-31T14:38:30Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687433136"/>
+    <nd ref="3139830383"/>
+    <nd ref="687431203"/>
+    <nd ref="3188423646"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923489" version="3" timestamp="2018-03-31T14:38:31Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687433193"/>
+    <nd ref="3188423641"/>
+    <nd ref="687431231"/>
+    <nd ref="3139854572"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923490" version="2" timestamp="2018-03-31T14:38:31Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426109"/>
+    <nd ref="3130926007"/>
+    <nd ref="687431708"/>
+    <nd ref="3188426020"/>
+    <nd ref="687431674"/>
+    <nd ref="687431676"/>
+    <nd ref="3139852493"/>
+    <nd ref="687431678"/>
+    <nd ref="3139852303"/>
+    <nd ref="687431680"/>
+    <nd ref="687431683"/>
+    <nd ref="687431685"/>
+    <nd ref="3139852495"/>
+    <nd ref="687431687"/>
+    <nd ref="1626925150"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923491" version="2" timestamp="2018-03-31T14:38:31Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426864"/>
+    <nd ref="687431842"/>
+    <nd ref="1855922511"/>
+    <nd ref="1855922514"/>
+    <nd ref="3188426505"/>
+    <nd ref="687431843"/>
+    <nd ref="1855922541"/>
+    <nd ref="1855922544"/>
+    <nd ref="687431844"/>
+    <nd ref="1855922538"/>
+    <nd ref="687431858"/>
+    <nd ref="1855922507"/>
+    <nd ref="3188426503"/>
+    <nd ref="687431860"/>
+    <nd ref="3188426863"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923492" version="2" timestamp="2018-03-31T14:38:32Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1504989817"/>
+    <nd ref="1855922480"/>
+    <nd ref="1855922492"/>
+    <nd ref="687431874"/>
+    <nd ref="687431876"/>
+    <nd ref="3188426866"/>
+    <nd ref="1855922515"/>
+    <nd ref="687431877"/>
+    <nd ref="1855922554"/>
+    <nd ref="687431846"/>
+    <nd ref="1855922556"/>
+    <nd ref="687431849"/>
+    <nd ref="1855922552"/>
+    <nd ref="3188426279"/>
+    <nd ref="687431851"/>
+    <nd ref="1855922534"/>
+    <nd ref="687431857"/>
+    <nd ref="3188426274"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923493" version="2" timestamp="2018-03-31T14:38:32Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426274"/>
+    <nd ref="3188423624"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923494" version="3" timestamp="2018-03-31T14:38:32Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="762183766"/>
+    <nd ref="5328812788"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923495" version="2" timestamp="2018-03-31T14:38:32Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="2187410838"/>
+    <nd ref="3188423614"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923496" version="2" timestamp="2018-03-31T14:38:33Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426516"/>
+    <nd ref="687431716"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923497" version="3" timestamp="2018-03-31T14:38:33Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188424828"/>
+    <nd ref="3139854194"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="merge_to_right|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923499" version="2" timestamp="2018-03-31T14:38:33Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431865"/>
+    <nd ref="1504989783"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923500" version="2" timestamp="2018-03-31T14:38:33Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431818"/>
+    <nd ref="687431820"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923501" version="2" timestamp="2018-03-31T14:38:33Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188424796"/>
+    <nd ref="3188423623"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923503" version="2" timestamp="2018-03-31T14:38:34Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423624"/>
+    <nd ref="3188426498"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923504" version="2" timestamp="2018-03-31T14:38:34Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3139852322"/>
+    <nd ref="687431076"/>
+    <nd ref="3139852516"/>
+    <nd ref="687431081"/>
+    <nd ref="687431083"/>
+    <nd ref="3139854331"/>
+    <nd ref="687431086"/>
+    <nd ref="3139852522"/>
+    <nd ref="3139854332"/>
+    <nd ref="687431114"/>
+    <nd ref="3139854198"/>
+    <nd ref="3188423630"/>
+    <nd ref="687431120"/>
+    <nd ref="687431134"/>
+    <nd ref="3139854439"/>
+    <nd ref="687431135"/>
+    <nd ref="687431141"/>
+    <nd ref="3139854449"/>
+    <nd ref="687431147"/>
+    <nd ref="3139854546"/>
+    <nd ref="3188426881"/>
+    <nd ref="687431159"/>
+    <nd ref="687431161"/>
+    <nd ref="3139854370"/>
+    <nd ref="687431163"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923505" version="2" timestamp="2018-03-31T14:38:34Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431716"/>
+    <nd ref="3130926334"/>
+    <nd ref="3188426517"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through;right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923506" version="3" timestamp="2018-03-31T14:38:34Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431820"/>
+    <nd ref="687431822"/>
+    <nd ref="687431824"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923507" version="2" timestamp="2018-03-31T14:38:35Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423623"/>
+    <nd ref="687431841"/>
+    <nd ref="3188426864"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923508" version="2" timestamp="2018-03-31T14:38:35Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1855922422"/>
+    <nd ref="687431900"/>
+    <nd ref="687431872"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923509" version="4" timestamp="2018-03-31T14:38:35Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3139854194"/>
+    <nd ref="687431089"/>
+    <nd ref="3188423629"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="merge_to_right|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923512" version="3" timestamp="2018-03-31T14:38:35Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3130926131"/>
+    <nd ref="687431797"/>
+    <nd ref="2187410823"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923513" version="5" timestamp="2018-03-31T14:38:35Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3139852325"/>
+    <nd ref="3139852519"/>
+    <nd ref="687431105"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923514" version="2" timestamp="2018-03-31T14:38:36Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188424299"/>
+    <nd ref="687431456"/>
+    <nd ref="3188424821"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923515" version="2" timestamp="2018-03-31T14:38:36Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188427197"/>
+    <nd ref="3139852498"/>
+    <nd ref="3188427196"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923516" version="2" timestamp="2018-03-31T14:38:36Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="762186811"/>
+    <nd ref="687431705"/>
+    <nd ref="3188426109"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923517" version="3" timestamp="2018-03-31T14:38:36Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426108"/>
+    <nd ref="687431703"/>
+    <nd ref="762183766"/>
+    <tag k="destination:lanes" v="Budapest|Budapest|Szajk;Bóly"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923518" version="5" timestamp="2018-03-31T14:38:36Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423629"/>
+    <nd ref="687431101"/>
+    <nd ref="3139852325"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923520" version="2" timestamp="2018-03-31T14:38:37Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188427188"/>
+    <nd ref="3188427190"/>
+    <nd ref="3188426024"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923521" version="2" timestamp="2018-03-31T14:38:37Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431224"/>
+    <nd ref="3139854375"/>
+    <nd ref="3188426883"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923522" version="2" timestamp="2018-03-31T14:38:37Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423617"/>
+    <nd ref="3188425992"/>
+    <nd ref="3188424796"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923523" version="2" timestamp="2018-03-31T14:38:37Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188427189"/>
+    <nd ref="3188426023"/>
+    <nd ref="3188426022"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923524" version="2" timestamp="2018-03-31T14:38:37Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="762178386"/>
+    <nd ref="687431710"/>
+    <nd ref="3188426106"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923525" version="3" timestamp="2018-03-31T14:38:38Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426517"/>
+    <nd ref="3188426013"/>
+    <nd ref="762176583"/>
+    <tag k="destination:lanes" v="Pécs;Harkány|Pécs;Harkány|Szederkény;Villány;Bóly"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923526" version="2" timestamp="2018-03-31T14:38:38Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426883"/>
+    <nd ref="687431236"/>
+    <nd ref="1623870036"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923529" version="2" timestamp="2018-03-31T14:38:38Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426112"/>
+    <nd ref="3139852292"/>
+    <nd ref="687431394"/>
+    <nd ref="3139852284"/>
+    <nd ref="687431395"/>
+    <nd ref="3188426008"/>
+    <nd ref="687431363"/>
+    <nd ref="3188426508"/>
+    <nd ref="3139852267"/>
+    <nd ref="687431367"/>
+    <nd ref="3139852460"/>
+    <nd ref="687431368"/>
+    <nd ref="3188426500"/>
+    <nd ref="3139830347"/>
+    <nd ref="687431369"/>
+    <nd ref="3139851495"/>
+    <nd ref="687431371"/>
+    <nd ref="3139852458"/>
+    <nd ref="3139852456"/>
+    <nd ref="687431464"/>
+    <nd ref="3139851490"/>
+    <nd ref="687431466"/>
+    <nd ref="3188426487"/>
+    <nd ref="3139852454"/>
+    <nd ref="687431468"/>
+    <nd ref="3188425993"/>
+    <nd ref="687431471"/>
+    <nd ref="3139852455"/>
+    <nd ref="3139851492"/>
+    <nd ref="687431473"/>
+    <nd ref="3139851494"/>
+    <nd ref="3139850918"/>
+    <nd ref="1626924761"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923539" version="2" timestamp="2018-03-31T14:38:38Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188424821"/>
+    <nd ref="687431459"/>
+    <nd ref="3139852499"/>
+    <nd ref="687431461"/>
+    <nd ref="3188426114"/>
+    <nd ref="3139852308"/>
+    <nd ref="687431423"/>
+    <nd ref="3139852309"/>
+    <nd ref="687431425"/>
+    <nd ref="687431432"/>
+    <nd ref="3188424824"/>
+    <nd ref="687431434"/>
+    <nd ref="687431436"/>
+    <nd ref="3139852503"/>
+    <nd ref="687431437"/>
+    <nd ref="687431585"/>
+    <nd ref="3139852313"/>
+    <nd ref="3188426119"/>
+    <nd ref="3139852320"/>
+    <nd ref="687431587"/>
+    <nd ref="3188423633"/>
+    <nd ref="3139854368"/>
+    <nd ref="687431347"/>
+    <nd ref="687431350"/>
+    <nd ref="3188423648"/>
+    <nd ref="3139854597"/>
+    <nd ref="687431353"/>
+    <nd ref="3139854599"/>
+    <nd ref="3139854601"/>
+    <nd ref="3139854603"/>
+    <nd ref="3139854605"/>
+    <nd ref="687431328"/>
+    <nd ref="3139854659"/>
+    <nd ref="3139830387"/>
+    <nd ref="687431330"/>
+    <nd ref="2600313595"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923541" version="2" timestamp="2018-03-31T14:38:39Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423614"/>
+    <nd ref="3188423615"/>
+    <nd ref="687431816"/>
+    <nd ref="3188423617"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923542" version="2" timestamp="2018-03-31T14:38:39Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423646"/>
+    <nd ref="3139854586"/>
+    <nd ref="3139854585"/>
+    <nd ref="687431205"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923543" version="2" timestamp="2018-03-31T14:38:39Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426113"/>
+    <nd ref="687431701"/>
+    <nd ref="3130926343"/>
+    <nd ref="3188426108"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through;right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923544" version="2" timestamp="2018-03-31T14:38:39Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426022"/>
+    <nd ref="687431442"/>
+    <nd ref="687431392"/>
+    <nd ref="3188426112"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923545" version="3" timestamp="2018-03-31T14:38:39Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423632"/>
+    <nd ref="687431137"/>
+    <nd ref="687431138"/>
+    <nd ref="3188426879"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="minspeed:lanes" v="90|70|"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="source:minspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="merge_to_right|through|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923546" version="2" timestamp="2018-03-31T14:38:40Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426515"/>
+    <nd ref="687431738"/>
+    <nd ref="3130926151"/>
+    <nd ref="687431739"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923547" version="2" timestamp="2018-03-31T14:38:40Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426106"/>
+    <nd ref="3130926331"/>
+    <nd ref="687431714"/>
+    <nd ref="3188426515"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923549" version="3" timestamp="2018-03-31T14:38:40Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426879"/>
+    <nd ref="3139854206"/>
+    <nd ref="687431130"/>
+    <nd ref="3188426878"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923550" version="3" timestamp="2018-03-31T14:38:40Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188423637"/>
+    <nd ref="687431260"/>
+    <nd ref="3139854471"/>
+    <nd ref="687433193"/>
+    <tag k="destination:lanes" v="Pécs-Centrum;Harkány|Pécs-Centrum;Harkány|Újperte;Pécs-Kelet"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|through|slight_right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923551" version="2" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426024"/>
+    <nd ref="3139852497"/>
+    <nd ref="687431446"/>
+    <nd ref="3188424299"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923552" version="2" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426863"/>
+    <nd ref="1855922494"/>
+    <nd ref="687431862"/>
+    <nd ref="1855922468"/>
+    <nd ref="687431865"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923553" version="2" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426498"/>
+    <nd ref="3188424794"/>
+    <nd ref="687431837"/>
+    <nd ref="3188423616"/>
+    <nd ref="687431818"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923554" version="2" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188427196"/>
+    <nd ref="687431454"/>
+    <nd ref="3139852305"/>
+    <nd ref="687431439"/>
+    <nd ref="3188427189"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923555" version="3" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426878"/>
+    <nd ref="687431132"/>
+    <nd ref="3139852527"/>
+    <nd ref="687431117"/>
+    <nd ref="3139854195"/>
+    <nd ref="3188424828"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923556" version="2" timestamp="2018-03-31T14:38:41Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431400"/>
+    <nd ref="687431402"/>
+    <nd ref="3139852299"/>
+    <nd ref="687431354"/>
+    <nd ref="687431444"/>
+    <nd ref="3188427188"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923557" version="2" timestamp="2018-03-31T14:38:42Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431824"/>
+    <nd ref="687431825"/>
+    <nd ref="687431826"/>
+    <nd ref="687431834"/>
+    <nd ref="687431799"/>
+    <nd ref="687431801"/>
+    <nd ref="3130926132"/>
+    <nd ref="687431803"/>
+    <nd ref="687431804"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="source:maxspeed:conditional" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923558" version="3" timestamp="2018-03-31T14:38:42Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3188426882"/>
+    <nd ref="3139854371"/>
+    <nd ref="687431170"/>
+    <nd ref="3139854456"/>
+    <nd ref="3188423634"/>
+    <nd ref="687431157"/>
+    <nd ref="3139854451"/>
+    <nd ref="687431145"/>
+    <nd ref="3188423632"/>
+    <tag k="fixme" v="Maxspeed????"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="maxspeed:conditional" v="110 @ rain; 110 @ snow"/>
+    <tag k="minspeed:lanes" v="90|70|"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:minspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="312923559" version="3" timestamp="2018-03-31T14:38:42Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1855922595"/>
+    <nd ref="1855922605"/>
+    <nd ref="3130909809"/>
+    <nd ref="687431925"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="merge_to_right|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="312923560" version="3" timestamp="2018-03-31T14:38:42Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687431925"/>
+    <nd ref="3130910156"/>
+    <nd ref="1855922609"/>
+    <nd ref="3130910157"/>
+    <nd ref="1855922620"/>
+    <nd ref="3130909810"/>
+    <nd ref="687431926"/>
+    <nd ref="687431927"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="319732376" version="4" timestamp="2018-03-31T14:38:49Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="688358300"/>
+    <nd ref="1855922676"/>
+    <nd ref="3130910167"/>
+    <nd ref="687536249"/>
+    <nd ref="3261922754"/>
+    <tag k="fixme" v="Is the maxspeed 80?"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M6"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="turn:lanes" v="through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="319732378" version="5" timestamp="2018-03-31T14:38:49Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="687536235"/>
+    <nd ref="3130910233"/>
+    <nd ref="1855922641"/>
+    <nd ref="1855922656"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M6"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="319732382" version="4" timestamp="2018-03-31T14:38:49Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3261922754"/>
+    <nd ref="687536250"/>
+    <nd ref="3130910158"/>
+    <nd ref="1855922631"/>
+    <nd ref="687536233"/>
+    <nd ref="687431929"/>
+    <tag k="fixme" v="Is the maxspeed 80?"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M6"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="331520221" version="5" timestamp="2018-03-31T14:38:50Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3385921379"/>
+    <nd ref="3857050986"/>
+    <nd ref="3857051720"/>
+    <nd ref="3857051501"/>
+    <nd ref="3857050985"/>
+    <nd ref="3857051718"/>
+    <nd ref="2408243136"/>
+    <nd ref="3857051499"/>
+    <nd ref="3857051560"/>
+    <nd ref="3857050982"/>
+    <nd ref="3857051498"/>
+    <nd ref="1791997298"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="331520224" version="6" timestamp="2018-03-31T14:38:50Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3385921385"/>
+    <nd ref="5075300075"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="merge_to_right|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="379327135" version="3" timestamp="2018-03-31T14:38:51Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3857051713"/>
+    <nd ref="3857051714"/>
+    <nd ref="3857051715"/>
+    <nd ref="1791997329"/>
+    <nd ref="3857051497"/>
+    <nd ref="3857050980"/>
+    <nd ref="3139852525"/>
+    <nd ref="3857050981"/>
+    <nd ref="1791997313"/>
+    <nd ref="1791997324"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="382503752" version="2" timestamp="2018-03-31T14:38:52Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1791997298"/>
+    <nd ref="3857050594"/>
+    <nd ref="3857051559"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="382503753" version="2" timestamp="2018-03-31T14:38:52Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="1791997279"/>
+    <nd ref="1791997335"/>
+    <nd ref="3857051713"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|merge_to_left"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="382503755" version="2" timestamp="2018-03-31T14:38:52Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3857051559"/>
+    <nd ref="3857051716"/>
+    <nd ref="1791997311"/>
+    <nd ref="1791997296"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="through|through|right"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="382503758" version="2" timestamp="2018-03-31T14:38:52Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3857051717"/>
+    <nd ref="3857050984"/>
+    <nd ref="2408243137"/>
+    <nd ref="3857051500"/>
+    <nd ref="3857051719"/>
+    <nd ref="3385921385"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="520788472" version="2" timestamp="2018-03-31T14:38:53Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="5075300075"/>
+    <nd ref="3857051502"/>
+    <nd ref="3857051721"/>
+    <nd ref="3385921380"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+    <tag k="turn:lanes" v="merge_to_right|through"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u29k324m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="549976182" version="2" timestamp="2018-03-31T14:38:53Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="3139854572"/>
+    <nd ref="3139854575"/>
+    <nd ref="687431222"/>
+    <nd ref="3139854578"/>
+    <nd ref="3139854583"/>
+    <nd ref="687431218"/>
+    <nd ref="687433136"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u25k232m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="551824406" version="2" timestamp="2018-03-31T14:38:53Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="5328812787"/>
+    <nd ref="762186811"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<way id="551824408" version="2" timestamp="2018-03-31T14:38:53Z" uid="2282410" user="leveskockaa" changeset="57689942">
+    <nd ref="5328812789"/>
+    <nd ref="3188423640"/>
+    <nd ref="3139854394"/>
+    <nd ref="687431224"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="HU:motorway"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u6k132m"/>
+		<tag k="HU:ed_direction" v="backward"/>
+</way>
+</modify>
+<modify>
+<way id="588390549" version="1" timestamp="2018-05-15T12:53:49Z" uid="622084" user="ITineris" changeset="58983691">
+    <nd ref="687431938"/>
+    <nd ref="1855922572"/>
+    <nd ref="687431910"/>
+    <nd ref="1855922563"/>
+    <nd ref="3188426096"/>
+    <nd ref="687431912"/>
+    <nd ref="1855922546"/>
+    <nd ref="1855922513"/>
+    <nd ref="1855922506"/>
+    <nd ref="687431915"/>
+    <nd ref="1855922490"/>
+    <nd ref="1855922486"/>
+    <nd ref="687431916"/>
+    <nd ref="1855922466"/>
+    <nd ref="687431920"/>
+    <nd ref="1855922458"/>
+    <nd ref="1855922452"/>
+    <nd ref="1855922448"/>
+    <nd ref="687431889"/>
+    <nd ref="1855922442"/>
+    <nd ref="1855922431"/>
+    <nd ref="687431891"/>
+    <nd ref="1855922428"/>
+    <nd ref="1855922425"/>
+    <nd ref="687431893"/>
+    <nd ref="1855922421"/>
+    <nd ref="1855922418"/>
+    <nd ref="687431894"/>
+    <nd ref="1855922420"/>
+    <nd ref="1855922422"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M60"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="start_date" v="2010"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>		<tag k="toll:hgv" v="yes"/>
+		<tag k="ref:HU:edid" v="M60u0k0m"/>
+		<tag k="HU:ed_direction" v="forward"/>
+</way>
+</modify>
+<modify>
+<relation id="7808556" version="2" timestamp="2018-05-02T14:13:42Z" uid="7187009" user="ITineris_bulk" changeset="58616580">
+    <member type="node" ref="5282104371" role="from"/>
+    <member type="node" ref="5282104372" role="to"/>
+    <tag k="HU:hu-go:length" v="7867"/>
+    <tag k="name" v="Útdíjas szakasz M60u0k0m"/>
+    <tag k="ref:HU:edid" v="M60u0k0m"/>
+    <tag k="start_date" v="2016-12-19"/>		<tag k="type" v="route"/>
+		<tag k="route" v="HU:toll:hgv"/>
+		<member type="way" ref="54607473" role="forward"/>
+		<member type="way" ref="54616082" role="backward"/>
+		<member type="way" ref="137195106" role="backward"/>
+		<member type="way" ref="137195107" role="forward"/>
+		<member type="way" ref="137195108" role="forward"/>
+		<member type="way" ref="137195109" role="backward"/>
+		<member type="way" ref="148802310" role="forward"/>
+		<member type="way" ref="148802324" role="backward"/>
+		<member type="way" ref="148802327" role="forward"/>
+		<member type="way" ref="148802328" role="backward"/>
+		<member type="way" ref="307859912" role="backward"/>
+		<member type="way" ref="307859913" role="forward"/>
+		<member type="way" ref="312923491" role="backward"/>
+		<member type="way" ref="312923492" role="forward"/>
+		<member type="way" ref="312923493" role="forward"/>
+		<member type="way" ref="312923495" role="backward"/>
+		<member type="way" ref="312923496" role="forward"/>
+		<member type="way" ref="312923499" role="backward"/>
+		<member type="way" ref="312923500" role="forward"/>
+		<member type="way" ref="312923501" role="backward"/>
+		<member type="way" ref="312923503" role="forward"/>
+		<member type="way" ref="312923505" role="forward"/>
+		<member type="way" ref="312923506" role="forward"/>
+		<member type="way" ref="312923507" role="backward"/>
+		<member type="way" ref="312923508" role="forward"/>
+		<member type="way" ref="312923512" role="backward"/>
+		<member type="way" ref="312923522" role="backward"/>
+		<member type="way" ref="312923524" role="backward"/>
+		<member type="way" ref="312923525" role="forward"/>
+		<member type="way" ref="312923541" role="backward"/>
+		<member type="way" ref="312923546" role="backward"/>
+		<member type="way" ref="312923547" role="backward"/>
+		<member type="way" ref="312923552" role="backward"/>
+		<member type="way" ref="312923553" role="forward"/>
+		<member type="way" ref="312923557" role="forward"/>
+		<member type="way" ref="312923559" role="backward"/>
+		<member type="way" ref="312923560" role="backward"/>
+		<member type="way" ref="319732376" role="forward"/>
+		<member type="way" ref="319732378" role="backward"/>
+		<member type="way" ref="319732382" role="forward"/>
+		<member type="way" ref="588390549" role="forward"/>
+</relation>
+</modify>
+<modify>
+<relation id="7808557" version="2" timestamp="2018-05-02T14:13:42Z" uid="7187009" user="ITineris_bulk" changeset="58616580">
+    <member type="node" ref="5282104373" role="from"/>
+    <member type="node" ref="5282094613" role="to"/>
+    <tag k="HU:hu-go:length" v="4139"/>
+    <tag k="name" v="Útdíjas szakasz M60u25k232m"/>
+    <tag k="ref:HU:edid" v="M60u25k232m"/>
+    <tag k="start_date" v="2016-12-19"/>		<tag k="type" v="route"/>
+		<tag k="route" v="HU:toll:hgv"/>
+		<member type="way" ref="149403340" role="backward"/>
+		<member type="way" ref="149403360" role="forward"/>
+		<member type="way" ref="149403364" role="backward"/>
+		<member type="way" ref="149403367" role="forward"/>
+		<member type="way" ref="167854145" role="forward"/>
+		<member type="way" ref="269888480" role="backward"/>
+		<member type="way" ref="269888481" role="backward"/>
+		<member type="way" ref="293029797" role="backward"/>
+		<member type="way" ref="308721686" role="forward"/>
+		<member type="way" ref="312923497" role="forward"/>
+		<member type="way" ref="312923504" role="backward"/>
+		<member type="way" ref="312923509" role="forward"/>
+		<member type="way" ref="312923513" role="forward"/>
+		<member type="way" ref="312923518" role="forward"/>
+		<member type="way" ref="312923542" role="forward"/>
+		<member type="way" ref="312923545" role="forward"/>
+		<member type="way" ref="312923549" role="forward"/>
+		<member type="way" ref="312923555" role="forward"/>
+		<member type="way" ref="312923558" role="forward"/>
+		<member type="way" ref="549976182" role="forward"/>
+</relation>
+</modify>
+<modify>
+<relation id="7808558" version="2" timestamp="2018-05-02T14:13:42Z" uid="7187009" user="ITineris_bulk" changeset="58616580">
+    <member type="node" ref="5282104374" role="from"/>
+    <member type="node" ref="5282104375" role="to"/>
+    <tag k="HU:hu-go:length" v="1638"/>
+    <tag k="name" v="Útdíjas szakasz M60u29k324m"/>
+    <tag k="ref:HU:edid" v="M60u29k324m"/>
+    <tag k="start_date" v="2016-12-19"/>		<tag k="type" v="route"/>
+		<tag k="route" v="HU:toll:hgv"/>
+		<member type="way" ref="167854142" role="backward"/>
+		<member type="way" ref="231954241" role="forward"/>
+		<member type="way" ref="331520221" role="backward"/>
+		<member type="way" ref="331520224" role="forward"/>
+		<member type="way" ref="379327135" role="forward"/>
+		<member type="way" ref="382503752" role="backward"/>
+		<member type="way" ref="382503753" role="forward"/>
+		<member type="way" ref="382503755" role="backward"/>
+		<member type="way" ref="382503758" role="forward"/>
+		<member type="way" ref="520788472" role="forward"/>
+</relation>
+</modify>
+<modify>
+<relation id="7808559" version="2" timestamp="2018-05-02T14:13:42Z" uid="7187009" user="ITineris_bulk" changeset="58616580">
+    <member type="node" ref="5282104372" role="from"/>
+    <member type="node" ref="5282104373" role="to"/>
+    <tag k="HU:hu-go:length" v="19124"/>
+    <tag k="name" v="Útdíjas szakasz M60u6k132m"/>
+    <tag k="ref:HU:edid" v="M60u6k132m"/>
+    <tag k="start_date" v="2016-12-19"/>		<tag k="type" v="route"/>
+		<tag k="route" v="HU:toll:hgv"/>
+		<member type="way" ref="149403345" role="forward"/>
+		<member type="way" ref="149403350" role="backward"/>
+		<member type="way" ref="149403356" role="forward"/>
+		<member type="way" ref="149403369" role="backward"/>
+		<member type="way" ref="149736971" role="backward"/>
+		<member type="way" ref="149736973" role="backward"/>
+		<member type="way" ref="149736975" role="forward"/>
+		<member type="way" ref="149736976" role="backward"/>
+		<member type="way" ref="149736977" role="forward"/>
+		<member type="way" ref="149736978" role="forward"/>
+		<member type="way" ref="149736979" role="forward"/>
+		<member type="way" ref="149736982" role="forward"/>
+		<member type="way" ref="149736986" role="backward"/>
+		<member type="way" ref="149736987" role="backward"/>
+		<member type="way" ref="149736991" role="backward"/>
+		<member type="way" ref="149736992" role="backward"/>
+		<member type="way" ref="149736995" role="forward"/>
+		<member type="way" ref="149736997" role="forward"/>
+		<member type="way" ref="149737000" role="backward"/>
+		<member type="way" ref="149737002" role="forward"/>
+		<member type="way" ref="254237885" role="forward"/>
+		<member type="way" ref="254237886" role="forward"/>
+		<member type="way" ref="254237887" role="backward"/>
+		<member type="way" ref="254237888" role="backward"/>
+		<member type="way" ref="254237889" role="forward"/>
+		<member type="way" ref="254237890" role="backward"/>
+		<member type="way" ref="254237891" role="backward"/>
+		<member type="way" ref="254237892" role="forward"/>
+		<member type="way" ref="312923489" role="forward"/>
+		<member type="way" ref="312923490" role="forward"/>
+		<member type="way" ref="312923494" role="backward"/>
+		<member type="way" ref="312923514" role="forward"/>
+		<member type="way" ref="312923515" role="backward"/>
+		<member type="way" ref="312923516" role="forward"/>
+		<member type="way" ref="312923517" role="backward"/>
+		<member type="way" ref="312923520" role="forward"/>
+		<member type="way" ref="312923521" role="backward"/>
+		<member type="way" ref="312923523" role="backward"/>
+		<member type="way" ref="312923526" role="backward"/>
+		<member type="way" ref="312923529" role="backward"/>
+		<member type="way" ref="312923539" role="forward"/>
+		<member type="way" ref="312923543" role="backward"/>
+		<member type="way" ref="312923544" role="backward"/>
+		<member type="way" ref="312923550" role="forward"/>
+		<member type="way" ref="312923551" role="forward"/>
+		<member type="way" ref="312923554" role="backward"/>
+		<member type="way" ref="312923556" role="forward"/>
+		<member type="way" ref="551824406" role="forward"/>
+		<member type="way" ref="551824408" role="backward"/>
+</relation>
+</modify>
+</osmChange>
