@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="acme osm editor">
+ <create>
+  <node id="-1" lat="47.7324794" lon="17.8169424">
+    <tag k="HU:hu-go:milestone" v="110 + 517"/>
+    <tag k="HU:hu-go:road" v="1"/>
+    <tag k="start_date" v="2016-12-19"/>
+  </node>
+  <node id="-2" lat="47.7325405" lon="17.8016898">
+    <tag k="HU:hu-go:milestone" v="111 + 630"/>
+    <tag k="HU:hu-go:road" v="1"/>
+    <tag k="start_date" v="2016-12-19"/>
+  </node>
+ </create>
+ <modify>
+  <relation id="7806239" visible="true" version="4" changeset="81584065" timestamp="2020-02-28T10:01:35Z" user="Seneb" uid="10805116">
+   <member type="node" ref="-1" role="from"/>
+   <member type="node" ref="-2" role="to"/>
+   <member type="way" ref="514281297" role="backward"/>
+   <member type="way" ref="514281300" role="backward"/>
+   <member type="way" ref="520520917" role="backward"/>
+   <tag k="HU:hu-go:length" v="1149"/>
+   <tag k="name" v="Útdíjas szakasz 1u110k517m"/>
+   <tag k="ref:HU:edid" v="1u110k517m"/>
+   <tag k="route" v="HU:toll:hgv"/>
+   <tag k="start_date" v="2016-12-19"/>
+   <tag k="type" v="route"/>
+  </relation>
+ </modify>
+ <modify>
+  <relation id="7806240" visible="true" version="4" changeset="81584065" timestamp="2020-02-28T10:01:35Z" user="Seneb" uid="10805116">
+   <member type="node" ref="-2" role="from"/>
+   <member type="node" ref="5282079841" role="to"/>
+   <member type="way" ref="514281305" role="backward"/>
+   <member type="way" ref="514281309" role="backward"/>
+   <member type="way" ref="520520027" role="backward"/>
+   <tag k="HU:hu-go:length" v="1502"/>
+   <tag k="name" v="Útdíjas szakasz 1u111k630m"/>
+   <tag k="ref:HU:edid" v="1u111k630m"/>
+   <tag k="route" v="HU:toll:hgv"/>
+   <tag k="start_date" v="2016-12-19"/>
+   <tag k="type" v="route"/>
+  </relation>
+ </modify>
+</osmChange>
